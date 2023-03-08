@@ -2,3 +2,4 @@
 1-listit: display the contents list of your current directory
 2-bring_me_home: navigate to the user's home directory
 3-listfiles: display current directory content in a long format
+4-listmorefiles: Display current directory content, including hidden files. use the long format: ls -al
